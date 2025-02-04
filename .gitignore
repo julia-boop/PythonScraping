@@ -1,2 +1,4 @@
 .env
 .venv
+job_error.log
+job_output.log
