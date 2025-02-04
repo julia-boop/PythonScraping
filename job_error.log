@@ -1,0 +1,1936 @@
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py': [Errno 1] Operation not permitted
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py': [Errno 1] Operation not permitted
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py': [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 1, in <module>
+    from GetFile import get_file
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 1, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 1, in <module>
+    from GetFile import get_file
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 1, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 1, in <module>
+    from GetFile import get_file
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 1, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 1, in <module>
+    from GetFile import get_file
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 1, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1176, in exec_module
+  File "<frozen site>", line 710, in <module>
+  File "<frozen site>", line 693, in main
+  File "<frozen site>", line 611, in venv
+PermissionError: [Errno 1] Operation not permitted: '/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/pyvenv.cfg'
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1176, in exec_module
+  File "<frozen site>", line 710, in <module>
+  File "<frozen site>", line 693, in main
+  File "<frozen site>", line 611, in venv
+PermissionError: [Errno 1] Operation not permitted: '/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/pyvenv.cfg'
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1176, in exec_module
+  File "<frozen site>", line 710, in <module>
+  File "<frozen site>", line 693, in main
+  File "<frozen site>", line 611, in venv
+PermissionError: [Errno 1] Operation not permitted: '/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/pyvenv.cfg'
+/bin/bash: /Users/juliacordero/Documents/Python/LogiwaScraping/.venv/bin/activate: Operation not permitted
+/bin/bash: /Users/juliacordero/Documents/Python/LogiwaScraping/.venv/bin/activate: Operation not permitted
+/bin/bash: /Users/juliacordero/Documents/Python/LogiwaScraping/.venv/bin/activate: Operation not permitted
+/bin/bash: /Users/juliacordero/Documents/Python/LogiwaScraping/.venv/bin/activate: Operation not permitted
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1176, in exec_module
+  File "<frozen site>", line 710, in <module>
+  File "<frozen site>", line 693, in main
+  File "<frozen site>", line 611, in venv
+PermissionError: [Errno 1] Operation not permitted: '/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/pyvenv.cfg'
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1176, in exec_module
+  File "<frozen site>", line 710, in <module>
+  File "<frozen site>", line 693, in main
+  File "<frozen site>", line 611, in venv
+PermissionError: [Errno 1] Operation not permitted: '/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/pyvenv.cfg'
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1176, in exec_module
+  File "<frozen site>", line 710, in <module>
+  File "<frozen site>", line 693, in main
+  File "<frozen site>", line 611, in venv
+PermissionError: [Errno 1] Operation not permitted: '/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/pyvenv.cfg'
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1176, in exec_module
+  File "<frozen site>", line 710, in <module>
+  File "<frozen site>", line 693, in main
+  File "<frozen site>", line 611, in venv
+PermissionError: [Errno 1] Operation not permitted: '/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/pyvenv.cfg'
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1176, in exec_module
+  File "<frozen site>", line 710, in <module>
+  File "<frozen site>", line 693, in main
+  File "<frozen site>", line 611, in venv
+PermissionError: [Errno 1] Operation not permitted: '/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/pyvenv.cfg'
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1176, in exec_module
+  File "<frozen site>", line 710, in <module>
+  File "<frozen site>", line 693, in main
+  File "<frozen site>", line 611, in venv
+PermissionError: [Errno 1] Operation not permitted: '/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/pyvenv.cfg'
+/Library/Frameworks/Python.framework/Versions/3.13/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py': [Errno 1] Operation not permitted
+/Library/Frameworks/Python.framework/Versions/3.13/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py': [Errno 1] Operation not permitted
+/Library/Frameworks/Python.framework/Versions/3.13/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py': [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 37, in get_file
+    driver.get("https://app.logiwa.com/en/Login")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=132.0.6834.111)
+Stacktrace:
+0   chromedriver                        0x00000001005427b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x000000010053aff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x00000001000dbf0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x00000001000d5320 cxxbridge1$string$len + 60632
+4   chromedriver                        0x00000001000c789c cxxbridge1$string$len + 4692
+5   chromedriver                        0x00000001000c9254 cxxbridge1$string$len + 11276
+6   chromedriver                        0x00000001000c7c48 cxxbridge1$string$len + 5632
+7   chromedriver                        0x00000001000c767c cxxbridge1$string$len + 4148
+8   chromedriver                        0x00000001000c73f0 cxxbridge1$string$len + 3496
+9   chromedriver                        0x00000001000c50f8 chromedriver + 184568
+10  chromedriver                        0x00000001000c5c30 chromedriver + 187440
+11  chromedriver                        0x00000001000de460 cxxbridge1$string$len + 97816
+12  chromedriver                        0x000000010015b708 cxxbridge1$string$len + 610496
+13  chromedriver                        0x000000010015b148 cxxbridge1$string$len + 609024
+14  chromedriver                        0x0000000100114e1c cxxbridge1$string$len + 321492
+15  chromedriver                        0x0000000100115a64 cxxbridge1$string$len + 324636
+16  chromedriver                        0x000000010050d6d4 cxxbridge1$str$ptr + 2381136
+17  chromedriver                        0x00000001005109f4 cxxbridge1$str$ptr + 2394224
+18  chromedriver                        0x00000001004f403c cxxbridge1$str$ptr + 2277048
+19  chromedriver                        0x00000001005112b4 cxxbridge1$str$ptr + 2396464
+20  chromedriver                        0x00000001004e5c04 cxxbridge1$str$ptr + 2218624
+21  chromedriver                        0x000000010052bd60 cxxbridge1$str$ptr + 2505692
+22  chromedriver                        0x000000010052bedc cxxbridge1$str$ptr + 2506072
+23  chromedriver                        0x000000010053ac6c cxxbridge1$str$ptr + 2566888
+24  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+25  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 37, in get_file
+    driver.get("https://app.logiwa.com/en/Login")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=132.0.6834.111)
+Stacktrace:
+0   chromedriver                        0x00000001050567b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x000000010504eff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000104beff0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000104be9320 cxxbridge1$string$len + 60632
+4   chromedriver                        0x0000000104bdb89c cxxbridge1$string$len + 4692
+5   chromedriver                        0x0000000104bdd254 cxxbridge1$string$len + 11276
+6   chromedriver                        0x0000000104bdbc48 cxxbridge1$string$len + 5632
+7   chromedriver                        0x0000000104bdb67c cxxbridge1$string$len + 4148
+8   chromedriver                        0x0000000104bdb3f0 cxxbridge1$string$len + 3496
+9   chromedriver                        0x0000000104bd90f8 chromedriver + 184568
+10  chromedriver                        0x0000000104bd9c30 chromedriver + 187440
+11  chromedriver                        0x0000000104bf2460 cxxbridge1$string$len + 97816
+12  chromedriver                        0x0000000104c6f708 cxxbridge1$string$len + 610496
+13  chromedriver                        0x0000000104c6f148 cxxbridge1$string$len + 609024
+14  chromedriver                        0x0000000104c28e1c cxxbridge1$string$len + 321492
+15  chromedriver                        0x0000000104c29a64 cxxbridge1$string$len + 324636
+16  chromedriver                        0x00000001050216d4 cxxbridge1$str$ptr + 2381136
+17  chromedriver                        0x00000001050249f4 cxxbridge1$str$ptr + 2394224
+18  chromedriver                        0x000000010500803c cxxbridge1$str$ptr + 2277048
+19  chromedriver                        0x00000001050252b4 cxxbridge1$str$ptr + 2396464
+20  chromedriver                        0x0000000104ff9c04 cxxbridge1$str$ptr + 2218624
+21  chromedriver                        0x000000010503fd60 cxxbridge1$str$ptr + 2505692
+22  chromedriver                        0x000000010503fedc cxxbridge1$str$ptr + 2506072
+23  chromedriver                        0x000000010504ec6c cxxbridge1$str$ptr + 2566888
+24  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+25  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 37, in get_file
+    driver.get("https://app.logiwa.com/en/Login")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=132.0.6834.111)
+Stacktrace:
+0   chromedriver                        0x00000001053be7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x00000001053b6ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000104f57f0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000104f51320 cxxbridge1$string$len + 60632
+4   chromedriver                        0x0000000104f4389c cxxbridge1$string$len + 4692
+5   chromedriver                        0x0000000104f45254 cxxbridge1$string$len + 11276
+6   chromedriver                        0x0000000104f43c48 cxxbridge1$string$len + 5632
+7   chromedriver                        0x0000000104f4367c cxxbridge1$string$len + 4148
+8   chromedriver                        0x0000000104f433f0 cxxbridge1$string$len + 3496
+9   chromedriver                        0x0000000104f410f8 chromedriver + 184568
+10  chromedriver                        0x0000000104f41c30 chromedriver + 187440
+11  chromedriver                        0x0000000104f5a460 cxxbridge1$string$len + 97816
+12  chromedriver                        0x0000000104fd7708 cxxbridge1$string$len + 610496
+13  chromedriver                        0x0000000104fd7148 cxxbridge1$string$len + 609024
+14  chromedriver                        0x0000000104f90e1c cxxbridge1$string$len + 321492
+15  chromedriver                        0x0000000104f91a64 cxxbridge1$string$len + 324636
+16  chromedriver                        0x00000001053896d4 cxxbridge1$str$ptr + 2381136
+17  chromedriver                        0x000000010538c9f4 cxxbridge1$str$ptr + 2394224
+18  chromedriver                        0x000000010537003c cxxbridge1$str$ptr + 2277048
+19  chromedriver                        0x000000010538d2b4 cxxbridge1$str$ptr + 2396464
+20  chromedriver                        0x0000000105361c04 cxxbridge1$str$ptr + 2218624
+21  chromedriver                        0x00000001053a7d60 cxxbridge1$str$ptr + 2505692
+22  chromedriver                        0x00000001053a7edc cxxbridge1$str$ptr + 2506072
+23  chromedriver                        0x00000001053b6c6c cxxbridge1$str$ptr + 2566888
+24  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+25  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 37, in get_file
+    driver.get("https://app.logiwa.com/en/Login")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=132.0.6834.111)
+Stacktrace:
+0   chromedriver                        0x0000000104ffa7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000104ff2ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000104b93f0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000104b8d320 cxxbridge1$string$len + 60632
+4   chromedriver                        0x0000000104b7f89c cxxbridge1$string$len + 4692
+5   chromedriver                        0x0000000104b81254 cxxbridge1$string$len + 11276
+6   chromedriver                        0x0000000104b7fc48 cxxbridge1$string$len + 5632
+7   chromedriver                        0x0000000104b7f67c cxxbridge1$string$len + 4148
+8   chromedriver                        0x0000000104b7f3f0 cxxbridge1$string$len + 3496
+9   chromedriver                        0x0000000104b7d0f8 chromedriver + 184568
+10  chromedriver                        0x0000000104b7dc30 chromedriver + 187440
+11  chromedriver                        0x0000000104b96460 cxxbridge1$string$len + 97816
+12  chromedriver                        0x0000000104c13708 cxxbridge1$string$len + 610496
+13  chromedriver                        0x0000000104c13148 cxxbridge1$string$len + 609024
+14  chromedriver                        0x0000000104bcce1c cxxbridge1$string$len + 321492
+15  chromedriver                        0x0000000104bcda64 cxxbridge1$string$len + 324636
+16  chromedriver                        0x0000000104fc56d4 cxxbridge1$str$ptr + 2381136
+17  chromedriver                        0x0000000104fc89f4 cxxbridge1$str$ptr + 2394224
+18  chromedriver                        0x0000000104fac03c cxxbridge1$str$ptr + 2277048
+19  chromedriver                        0x0000000104fc92b4 cxxbridge1$str$ptr + 2396464
+20  chromedriver                        0x0000000104f9dc04 cxxbridge1$str$ptr + 2218624
+21  chromedriver                        0x0000000104fe3d60 cxxbridge1$str$ptr + 2505692
+22  chromedriver                        0x0000000104fe3edc cxxbridge1$str$ptr + 2506072
+23  chromedriver                        0x0000000104ff2c6c cxxbridge1$str$ptr + 2566888
+24  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+25  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 37, in get_file
+    driver.get("https://app.logiwa.com/en/Login")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=132.0.6834.111)
+Stacktrace:
+0   chromedriver                        0x0000000104df67b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000104deeff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x000000010498ff0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000104989320 cxxbridge1$string$len + 60632
+4   chromedriver                        0x000000010497b89c cxxbridge1$string$len + 4692
+5   chromedriver                        0x000000010497d254 cxxbridge1$string$len + 11276
+6   chromedriver                        0x000000010497bc48 cxxbridge1$string$len + 5632
+7   chromedriver                        0x000000010497b67c cxxbridge1$string$len + 4148
+8   chromedriver                        0x000000010497b3f0 cxxbridge1$string$len + 3496
+9   chromedriver                        0x00000001049790f8 chromedriver + 184568
+10  chromedriver                        0x0000000104979c30 chromedriver + 187440
+11  chromedriver                        0x0000000104992460 cxxbridge1$string$len + 97816
+12  chromedriver                        0x0000000104a0f708 cxxbridge1$string$len + 610496
+13  chromedriver                        0x0000000104a0f148 cxxbridge1$string$len + 609024
+14  chromedriver                        0x00000001049c8e1c cxxbridge1$string$len + 321492
+15  chromedriver                        0x00000001049c9a64 cxxbridge1$string$len + 324636
+16  chromedriver                        0x0000000104dc16d4 cxxbridge1$str$ptr + 2381136
+17  chromedriver                        0x0000000104dc49f4 cxxbridge1$str$ptr + 2394224
+18  chromedriver                        0x0000000104da803c cxxbridge1$str$ptr + 2277048
+19  chromedriver                        0x0000000104dc52b4 cxxbridge1$str$ptr + 2396464
+20  chromedriver                        0x0000000104d99c04 cxxbridge1$str$ptr + 2218624
+21  chromedriver                        0x0000000104ddfd60 cxxbridge1$str$ptr + 2505692
+22  chromedriver                        0x0000000104ddfedc cxxbridge1$str$ptr + 2506072
+23  chromedriver                        0x0000000104deec6c cxxbridge1$str$ptr + 2566888
+24  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+25  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 47, in get_file
+    username_field.send_keys("jcordero@the5411.com")
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 301, in send_keys
+    self._execute(
+    ~~~~~~~~~~~~~^
+        Command.SEND_KEYS_TO_ELEMENT, {"text": "".join(keys_to_typing(value)), "value": keys_to_typing(value)}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 570, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=132.0.6834.111)
+Stacktrace:
+0   chromedriver                        0x00000001027327b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x000000010272aff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x00000001022cbd7c cxxbridge1$string$len + 87860
+3   chromedriver                        0x000000010230bd38 cxxbridge1$string$len + 349936
+4   chromedriver                        0x000000010230abb4 cxxbridge1$string$len + 345452
+5   chromedriver                        0x0000000102306890 cxxbridge1$string$len + 328264
+6   chromedriver                        0x000000010234b148 cxxbridge1$string$len + 609024
+7   chromedriver                        0x0000000102304e1c cxxbridge1$string$len + 321492
+8   chromedriver                        0x0000000102305a64 cxxbridge1$string$len + 324636
+9   chromedriver                        0x00000001026fd6d4 cxxbridge1$str$ptr + 2381136
+10  chromedriver                        0x00000001027009f4 cxxbridge1$str$ptr + 2394224
+11  chromedriver                        0x00000001026e403c cxxbridge1$str$ptr + 2277048
+12  chromedriver                        0x00000001027012b4 cxxbridge1$str$ptr + 2396464
+13  chromedriver                        0x00000001026d5c04 cxxbridge1$str$ptr + 2218624
+14  chromedriver                        0x000000010271bd60 cxxbridge1$str$ptr + 2505692
+15  chromedriver                        0x000000010271bedc cxxbridge1$str$ptr + 2506072
+16  chromedriver                        0x000000010272ac6c cxxbridge1$str$ptr + 2566888
+17  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 47, in get_file
+    username_field.send_keys("jcordero@the5411.com")
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 301, in send_keys
+    self._execute(
+    ~~~~~~~~~~~~~^
+        Command.SEND_KEYS_TO_ELEMENT, {"text": "".join(keys_to_typing(value)), "value": keys_to_typing(value)}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 570, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=132.0.6834.111)
+Stacktrace:
+0   chromedriver                        0x00000001026ee7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x00000001026e6ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000102287d7c cxxbridge1$string$len + 87860
+3   chromedriver                        0x00000001022c7d38 cxxbridge1$string$len + 349936
+4   chromedriver                        0x00000001022c6bb4 cxxbridge1$string$len + 345452
+5   chromedriver                        0x00000001022c2890 cxxbridge1$string$len + 328264
+6   chromedriver                        0x0000000102307148 cxxbridge1$string$len + 609024
+7   chromedriver                        0x00000001022c0e1c cxxbridge1$string$len + 321492
+8   chromedriver                        0x00000001022c1a64 cxxbridge1$string$len + 324636
+9   chromedriver                        0x00000001026b96d4 cxxbridge1$str$ptr + 2381136
+10  chromedriver                        0x00000001026bc9f4 cxxbridge1$str$ptr + 2394224
+11  chromedriver                        0x00000001026a003c cxxbridge1$str$ptr + 2277048
+12  chromedriver                        0x00000001026bd2b4 cxxbridge1$str$ptr + 2396464
+13  chromedriver                        0x0000000102691c04 cxxbridge1$str$ptr + 2218624
+14  chromedriver                        0x00000001026d7d60 cxxbridge1$str$ptr + 2505692
+15  chromedriver                        0x00000001026d7edc cxxbridge1$str$ptr + 2506072
+16  chromedriver                        0x00000001026e6c6c cxxbridge1$str$ptr + 2566888
+17  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 76, in get_file
+    input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@class='form-control'])[1]"}
+  (Session info: chrome=132.0.6834.111); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102bde7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000102bd6ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000102777f0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x00000001027bd000 cxxbridge1$string$len + 371128
+4   chromedriver                        0x00000001027f7148 cxxbridge1$string$len + 609024
+5   chromedriver                        0x00000001027b0e1c cxxbridge1$string$len + 321492
+6   chromedriver                        0x00000001027b1a64 cxxbridge1$string$len + 324636
+7   chromedriver                        0x0000000102ba96d4 cxxbridge1$str$ptr + 2381136
+8   chromedriver                        0x0000000102bac9f4 cxxbridge1$str$ptr + 2394224
+9   chromedriver                        0x0000000102b9003c cxxbridge1$str$ptr + 2277048
+10  chromedriver                        0x0000000102bad2b4 cxxbridge1$str$ptr + 2396464
+11  chromedriver                        0x0000000102b81c04 cxxbridge1$str$ptr + 2218624
+12  chromedriver                        0x0000000102bc7d60 cxxbridge1$str$ptr + 2505692
+13  chromedriver                        0x0000000102bc7edc cxxbridge1$str$ptr + 2506072
+14  chromedriver                        0x0000000102bd6c6c cxxbridge1$str$ptr + 2566888
+15  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 76, in get_file
+    input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@class='form-control'])[1]"}
+  (Session info: chrome=132.0.6834.111); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010091a7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000100912ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x00000001004b3f0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x00000001004f9000 cxxbridge1$string$len + 371128
+4   chromedriver                        0x0000000100533148 cxxbridge1$string$len + 609024
+5   chromedriver                        0x00000001004ece1c cxxbridge1$string$len + 321492
+6   chromedriver                        0x00000001004eda64 cxxbridge1$string$len + 324636
+7   chromedriver                        0x00000001008e56d4 cxxbridge1$str$ptr + 2381136
+8   chromedriver                        0x00000001008e89f4 cxxbridge1$str$ptr + 2394224
+9   chromedriver                        0x00000001008cc03c cxxbridge1$str$ptr + 2277048
+10  chromedriver                        0x00000001008e92b4 cxxbridge1$str$ptr + 2396464
+11  chromedriver                        0x00000001008bdc04 cxxbridge1$str$ptr + 2218624
+12  chromedriver                        0x0000000100903d60 cxxbridge1$str$ptr + 2505692
+13  chromedriver                        0x0000000100903edc cxxbridge1$str$ptr + 2506072
+14  chromedriver                        0x0000000100912c6c cxxbridge1$str$ptr + 2566888
+15  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 1428, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 37, in get_file
+    driver.get("https://app.logiwa.com/en/Login")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 427, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=53176): Read timed out. (read timeout=120)
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 76, in get_file
+    input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@class='form-control'])[1]"}
+  (Session info: chrome=132.0.6834.111); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102bb27b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000102baaff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x000000010274bf0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000102791000 cxxbridge1$string$len + 371128
+4   chromedriver                        0x00000001027cb148 cxxbridge1$string$len + 609024
+5   chromedriver                        0x0000000102784e1c cxxbridge1$string$len + 321492
+6   chromedriver                        0x0000000102785a64 cxxbridge1$string$len + 324636
+7   chromedriver                        0x0000000102b7d6d4 cxxbridge1$str$ptr + 2381136
+8   chromedriver                        0x0000000102b809f4 cxxbridge1$str$ptr + 2394224
+9   chromedriver                        0x0000000102b6403c cxxbridge1$str$ptr + 2277048
+10  chromedriver                        0x0000000102b812b4 cxxbridge1$str$ptr + 2396464
+11  chromedriver                        0x0000000102b55c04 cxxbridge1$str$ptr + 2218624
+12  chromedriver                        0x0000000102b9bd60 cxxbridge1$str$ptr + 2505692
+13  chromedriver                        0x0000000102b9bedc cxxbridge1$str$ptr + 2506072
+14  chromedriver                        0x0000000102baac6c cxxbridge1$str$ptr + 2566888
+15  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 76, in get_file
+    input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@class='form-control'])[1]"}
+  (Session info: chrome=132.0.6834.111); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010462a7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000104622ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x00000001041c3f0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000104209000 cxxbridge1$string$len + 371128
+4   chromedriver                        0x0000000104243148 cxxbridge1$string$len + 609024
+5   chromedriver                        0x00000001041fce1c cxxbridge1$string$len + 321492
+6   chromedriver                        0x00000001041fda64 cxxbridge1$string$len + 324636
+7   chromedriver                        0x00000001045f56d4 cxxbridge1$str$ptr + 2381136
+8   chromedriver                        0x00000001045f89f4 cxxbridge1$str$ptr + 2394224
+9   chromedriver                        0x00000001045dc03c cxxbridge1$str$ptr + 2277048
+10  chromedriver                        0x00000001045f92b4 cxxbridge1$str$ptr + 2396464
+11  chromedriver                        0x00000001045cdc04 cxxbridge1$str$ptr + 2218624
+12  chromedriver                        0x0000000104613d60 cxxbridge1$str$ptr + 2505692
+13  chromedriver                        0x0000000104613edc cxxbridge1$str$ptr + 2506072
+14  chromedriver                        0x0000000104622c6c cxxbridge1$str$ptr + 2566888
+15  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 84, in get_file
+    button_search.click()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 119, in click
+    self._execute(Command.CLICK_ELEMENT)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 570, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <button type="button" class="btn btn-success tooltip-info" data-rel="tooltip" button-type="search" data-placement="bottom" title="" data-original-title="Search - Alt+F7" ng-click="onSearchClick($event)">...</button> is not clickable at point (25, 66). Other element would receive the click: <div class="bootbox modal fade customErrorDialog softErrorDialog in" tabindex="-1" role="dialog" aria-hidden="false" style="display: block;">...</div>
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+0   chromedriver                        0x00000001031767b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x000000010316eff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000102d0ff0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000102d5a930 cxxbridge1$string$len + 393960
+4   chromedriver                        0x0000000102d58f0c cxxbridge1$string$len + 387268
+5   chromedriver                        0x0000000102d56de8 cxxbridge1$string$len + 378784
+6   chromedriver                        0x0000000102d56258 cxxbridge1$string$len + 375824
+7   chromedriver                        0x0000000102d4adec cxxbridge1$string$len + 329636
+8   chromedriver                        0x0000000102d4a890 cxxbridge1$string$len + 328264
+9   chromedriver                        0x0000000102d8f148 cxxbridge1$string$len + 609024
+10  chromedriver                        0x0000000102d48e1c cxxbridge1$string$len + 321492
+11  chromedriver                        0x0000000102d49a64 cxxbridge1$string$len + 324636
+12  chromedriver                        0x00000001031416d4 cxxbridge1$str$ptr + 2381136
+13  chromedriver                        0x00000001031449f4 cxxbridge1$str$ptr + 2394224
+14  chromedriver                        0x000000010312803c cxxbridge1$str$ptr + 2277048
+15  chromedriver                        0x00000001031452b4 cxxbridge1$str$ptr + 2396464
+16  chromedriver                        0x0000000103119c04 cxxbridge1$str$ptr + 2218624
+17  chromedriver                        0x000000010315fd60 cxxbridge1$str$ptr + 2505692
+18  chromedriver                        0x000000010315fedc cxxbridge1$str$ptr + 2506072
+19  chromedriver                        0x000000010316ec6c cxxbridge1$str$ptr + 2566888
+20  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 76, in get_file
+    input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@class='form-control'])[1]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001053ba7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x00000001053b2ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000104f53f0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000104f99000 cxxbridge1$string$len + 371128
+4   chromedriver                        0x0000000104fd3148 cxxbridge1$string$len + 609024
+5   chromedriver                        0x0000000104f8ce1c cxxbridge1$string$len + 321492
+6   chromedriver                        0x0000000104f8da64 cxxbridge1$string$len + 324636
+7   chromedriver                        0x00000001053856d4 cxxbridge1$str$ptr + 2381136
+8   chromedriver                        0x00000001053889f4 cxxbridge1$str$ptr + 2394224
+9   chromedriver                        0x000000010536c03c cxxbridge1$str$ptr + 2277048
+10  chromedriver                        0x00000001053892b4 cxxbridge1$str$ptr + 2396464
+11  chromedriver                        0x000000010535dc04 cxxbridge1$str$ptr + 2218624
+12  chromedriver                        0x00000001053a3d60 cxxbridge1$str$ptr + 2505692
+13  chromedriver                        0x00000001053a3edc cxxbridge1$str$ptr + 2506072
+14  chromedriver                        0x00000001053b2c6c cxxbridge1$str$ptr + 2566888
+15  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 76, in get_file
+    input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@class='form-control'])[1]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001053aa7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x00000001053a2ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000104f43f0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000104f89000 cxxbridge1$string$len + 371128
+4   chromedriver                        0x0000000104fc3148 cxxbridge1$string$len + 609024
+5   chromedriver                        0x0000000104f7ce1c cxxbridge1$string$len + 321492
+6   chromedriver                        0x0000000104f7da64 cxxbridge1$string$len + 324636
+7   chromedriver                        0x00000001053756d4 cxxbridge1$str$ptr + 2381136
+8   chromedriver                        0x00000001053789f4 cxxbridge1$str$ptr + 2394224
+9   chromedriver                        0x000000010535c03c cxxbridge1$str$ptr + 2277048
+10  chromedriver                        0x00000001053792b4 cxxbridge1$str$ptr + 2396464
+11  chromedriver                        0x000000010534dc04 cxxbridge1$str$ptr + 2218624
+12  chromedriver                        0x0000000105393d60 cxxbridge1$str$ptr + 2505692
+13  chromedriver                        0x0000000105393edc cxxbridge1$str$ptr + 2506072
+14  chromedriver                        0x00000001053a2c6c cxxbridge1$str$ptr + 2566888
+15  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 76, in get_file
+    input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@class='form-control'])[1]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100a927b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000100a8aff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x000000010062bf0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000100671000 cxxbridge1$string$len + 371128
+4   chromedriver                        0x00000001006ab148 cxxbridge1$string$len + 609024
+5   chromedriver                        0x0000000100664e1c cxxbridge1$string$len + 321492
+6   chromedriver                        0x0000000100665a64 cxxbridge1$string$len + 324636
+7   chromedriver                        0x0000000100a5d6d4 cxxbridge1$str$ptr + 2381136
+8   chromedriver                        0x0000000100a609f4 cxxbridge1$str$ptr + 2394224
+9   chromedriver                        0x0000000100a4403c cxxbridge1$str$ptr + 2277048
+10  chromedriver                        0x0000000100a612b4 cxxbridge1$str$ptr + 2396464
+11  chromedriver                        0x0000000100a35c04 cxxbridge1$str$ptr + 2218624
+12  chromedriver                        0x0000000100a7bd60 cxxbridge1$str$ptr + 2505692
+13  chromedriver                        0x0000000100a7bedc cxxbridge1$str$ptr + 2506072
+14  chromedriver                        0x0000000100a8ac6c cxxbridge1$str$ptr + 2566888
+15  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 84, in get_file
+    button_search.click()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 119, in click
+    self._execute(Command.CLICK_ELEMENT)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 570, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <button type="button" class="btn btn-success tooltip-info" data-rel="tooltip" button-type="search" data-placement="bottom" title="" data-original-title="Search - Alt+F7" ng-click="onSearchClick($event)">...</button> is not clickable at point (25, 66). Other element would receive the click: <div class="bootbox modal fade customErrorDialog softErrorDialog in" tabindex="-1" role="dialog" aria-hidden="false" style="display: block;">...</div>
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+0   chromedriver                        0x0000000102e167b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000102e0eff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x00000001029aff0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x00000001029fa930 cxxbridge1$string$len + 393960
+4   chromedriver                        0x00000001029f8f0c cxxbridge1$string$len + 387268
+5   chromedriver                        0x00000001029f6de8 cxxbridge1$string$len + 378784
+6   chromedriver                        0x00000001029f6258 cxxbridge1$string$len + 375824
+7   chromedriver                        0x00000001029eadec cxxbridge1$string$len + 329636
+8   chromedriver                        0x00000001029ea890 cxxbridge1$string$len + 328264
+9   chromedriver                        0x0000000102a2f148 cxxbridge1$string$len + 609024
+10  chromedriver                        0x00000001029e8e1c cxxbridge1$string$len + 321492
+11  chromedriver                        0x00000001029e9a64 cxxbridge1$string$len + 324636
+12  chromedriver                        0x0000000102de16d4 cxxbridge1$str$ptr + 2381136
+13  chromedriver                        0x0000000102de49f4 cxxbridge1$str$ptr + 2394224
+14  chromedriver                        0x0000000102dc803c cxxbridge1$str$ptr + 2277048
+15  chromedriver                        0x0000000102de52b4 cxxbridge1$str$ptr + 2396464
+16  chromedriver                        0x0000000102db9c04 cxxbridge1$str$ptr + 2218624
+17  chromedriver                        0x0000000102dffd60 cxxbridge1$str$ptr + 2505692
+18  chromedriver                        0x0000000102dffedc cxxbridge1$str$ptr + 2506072
+19  chromedriver                        0x0000000102e0ec6c cxxbridge1$str$ptr + 2566888
+20  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 47, in get_file
+    username_field.send_keys("jcordero@the5411.com")
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 301, in send_keys
+    self._execute(
+    ~~~~~~~~~~~~~^
+        Command.SEND_KEYS_TO_ELEMENT, {"text": "".join(keys_to_typing(value)), "value": keys_to_typing(value)}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 570, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+0   chromedriver                        0x0000000102f667b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000102f5eff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000102affd7c cxxbridge1$string$len + 87860
+3   chromedriver                        0x0000000102b3fd38 cxxbridge1$string$len + 349936
+4   chromedriver                        0x0000000102b3ebb4 cxxbridge1$string$len + 345452
+5   chromedriver                        0x0000000102b3a890 cxxbridge1$string$len + 328264
+6   chromedriver                        0x0000000102b7f148 cxxbridge1$string$len + 609024
+7   chromedriver                        0x0000000102b38e1c cxxbridge1$string$len + 321492
+8   chromedriver                        0x0000000102b39a64 cxxbridge1$string$len + 324636
+9   chromedriver                        0x0000000102f316d4 cxxbridge1$str$ptr + 2381136
+10  chromedriver                        0x0000000102f349f4 cxxbridge1$str$ptr + 2394224
+11  chromedriver                        0x0000000102f1803c cxxbridge1$str$ptr + 2277048
+12  chromedriver                        0x0000000102f352b4 cxxbridge1$str$ptr + 2396464
+13  chromedriver                        0x0000000102f09c04 cxxbridge1$str$ptr + 2218624
+14  chromedriver                        0x0000000102f4fd60 cxxbridge1$str$ptr + 2505692
+15  chromedriver                        0x0000000102f4fedc cxxbridge1$str$ptr + 2506072
+16  chromedriver                        0x0000000102f5ec6c cxxbridge1$str$ptr + 2566888
+17  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 72, in get_file
+    driver.get("https://app.logiwa.com/en/WMS/Stock")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 231, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: "undefined" is not valid JSON
+Message: unexpected alert open: {Alert text : "undefined" is not valid JSON}
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+0   chromedriver                        0x0000000100fae7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000100fa6ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000100b47f0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000100bc6e94 cxxbridge1$string$len + 608332
+4   chromedriver                        0x0000000100b80e1c cxxbridge1$string$len + 321492
+5   chromedriver                        0x0000000100b81a64 cxxbridge1$string$len + 324636
+6   chromedriver                        0x0000000100f796d4 cxxbridge1$str$ptr + 2381136
+7   chromedriver                        0x0000000100f7c9f4 cxxbridge1$str$ptr + 2394224
+8   chromedriver                        0x0000000100f6003c cxxbridge1$str$ptr + 2277048
+9   chromedriver                        0x0000000100f7d2b4 cxxbridge1$str$ptr + 2396464
+10  chromedriver                        0x0000000100f51c04 cxxbridge1$str$ptr + 2218624
+11  chromedriver                        0x0000000100f97d60 cxxbridge1$str$ptr + 2505692
+12  chromedriver                        0x0000000100f97edc cxxbridge1$str$ptr + 2506072
+13  chromedriver                        0x0000000100fa6c6c cxxbridge1$str$ptr + 2566888
+14  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 76, in get_file
+    input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@class='form-control'])[1]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010510a7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000105102ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000104ca3f0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000104ce9000 cxxbridge1$string$len + 371128
+4   chromedriver                        0x0000000104d23148 cxxbridge1$string$len + 609024
+5   chromedriver                        0x0000000104cdce1c cxxbridge1$string$len + 321492
+6   chromedriver                        0x0000000104cdda64 cxxbridge1$string$len + 324636
+7   chromedriver                        0x00000001050d56d4 cxxbridge1$str$ptr + 2381136
+8   chromedriver                        0x00000001050d89f4 cxxbridge1$str$ptr + 2394224
+9   chromedriver                        0x00000001050bc03c cxxbridge1$str$ptr + 2277048
+10  chromedriver                        0x00000001050d92b4 cxxbridge1$str$ptr + 2396464
+11  chromedriver                        0x00000001050adc04 cxxbridge1$str$ptr + 2218624
+12  chromedriver                        0x00000001050f3d60 cxxbridge1$str$ptr + 2505692
+13  chromedriver                        0x00000001050f3edc cxxbridge1$str$ptr + 2506072
+14  chromedriver                        0x0000000105102c6c cxxbridge1$str$ptr + 2566888
+15  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py:984: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  return self.get_screenshot_as_file(filename)
+/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py:984: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  return self.get_screenshot_as_file(filename)
+/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py:984: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  return self.get_screenshot_as_file(filename)
+Traceback (most recent call last):
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 1428, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 9, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 37, in get_file
+    driver.get("https://app.logiwa.com/en/Login")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 427, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=54251): Read timed out. (read timeout=120)
+/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py:984: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  return self.get_screenshot_as_file(filename)
+/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py:984: UserWarning: name used for saved screenshot does not match file type. It should end with a `.png` extension
+  return self.get_screenshot_as_file(filename)
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 1428, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 38, in get_file
+    driver.get("https://app.logiwa.com/en/Login")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 427, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=58413): Read timed out. (read timeout=120)
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 1428, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 38, in get_file
+    driver.get("https://app.logiwa.com/en/Login")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 427, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=58433): Read timed out. (read timeout=120)
+Traceback (most recent call last):
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 1428, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 38, in get_file
+    driver.get("https://app.logiwa.com/en/Login")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 427, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=62643): Read timed out. (read timeout=120)
+Traceback (most recent call last):
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 1428, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 38, in get_file
+    driver.get("https://app.logiwa.com/en/Login")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 427, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=54315): Read timed out. (read timeout=120)
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 81, in get_file
+    input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@class='form-control'])[1]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001005ee7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x00000001005e6ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000100187f0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x00000001001cd000 cxxbridge1$string$len + 371128
+4   chromedriver                        0x0000000100207148 cxxbridge1$string$len + 609024
+5   chromedriver                        0x00000001001c0e1c cxxbridge1$string$len + 321492
+6   chromedriver                        0x00000001001c1a64 cxxbridge1$string$len + 324636
+7   chromedriver                        0x00000001005b96d4 cxxbridge1$str$ptr + 2381136
+8   chromedriver                        0x00000001005bc9f4 cxxbridge1$str$ptr + 2394224
+9   chromedriver                        0x00000001005a003c cxxbridge1$str$ptr + 2277048
+10  chromedriver                        0x00000001005bd2b4 cxxbridge1$str$ptr + 2396464
+11  chromedriver                        0x0000000100591c04 cxxbridge1$str$ptr + 2218624
+12  chromedriver                        0x00000001005d7d60 cxxbridge1$str$ptr + 2505692
+13  chromedriver                        0x00000001005d7edc cxxbridge1$str$ptr + 2506072
+14  chromedriver                        0x00000001005e6c6c cxxbridge1$str$ptr + 2566888
+15  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 73, in get_file
+    driver.get("https://app.logiwa.com/en/WMS/Stock")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x0000000104eee7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000104ee6ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000104a87d7c cxxbridge1$string$len + 87860
+3   chromedriver                        0x0000000104ac0968 cxxbridge1$string$len + 320288
+4   chromedriver                        0x0000000104ac1a64 cxxbridge1$string$len + 324636
+5   chromedriver                        0x0000000104eb96d4 cxxbridge1$str$ptr + 2381136
+6   chromedriver                        0x0000000104ebc9f4 cxxbridge1$str$ptr + 2394224
+7   chromedriver                        0x0000000104ea003c cxxbridge1$str$ptr + 2277048
+8   chromedriver                        0x0000000104ebd2b4 cxxbridge1$str$ptr + 2396464
+9   chromedriver                        0x0000000104e91c04 cxxbridge1$str$ptr + 2218624
+10  chromedriver                        0x0000000104ed7d60 cxxbridge1$str$ptr + 2505692
+11  chromedriver                        0x0000000104ed7edc cxxbridge1$str$ptr + 2506072
+12  chromedriver                        0x0000000104ee6c6c cxxbridge1$str$ptr + 2566888
+13  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+14  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 1428, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 38, in get_file
+    driver.get("https://app.logiwa.com/en/Login")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 427, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=49427): Read timed out. (read timeout=120)
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 81, in get_file
+    input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@class='form-control'])[1]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010106a7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000101062ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000100c03f0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000100c49000 cxxbridge1$string$len + 371128
+4   chromedriver                        0x0000000100c83148 cxxbridge1$string$len + 609024
+5   chromedriver                        0x0000000100c3ce1c cxxbridge1$string$len + 321492
+6   chromedriver                        0x0000000100c3da64 cxxbridge1$string$len + 324636
+7   chromedriver                        0x00000001010356d4 cxxbridge1$str$ptr + 2381136
+8   chromedriver                        0x00000001010389f4 cxxbridge1$str$ptr + 2394224
+9   chromedriver                        0x000000010101c03c cxxbridge1$str$ptr + 2277048
+10  chromedriver                        0x00000001010392b4 cxxbridge1$str$ptr + 2396464
+11  chromedriver                        0x000000010100dc04 cxxbridge1$str$ptr + 2218624
+12  chromedriver                        0x0000000101053d60 cxxbridge1$str$ptr + 2505692
+13  chromedriver                        0x0000000101053edc cxxbridge1$str$ptr + 2506072
+14  chromedriver                        0x0000000101062c6c cxxbridge1$str$ptr + 2566888
+15  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 81, in get_file
+    input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@class='form-control'])[1]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100ab27b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000100aaaff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x000000010064bf0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000100691000 cxxbridge1$string$len + 371128
+4   chromedriver                        0x00000001006cb148 cxxbridge1$string$len + 609024
+5   chromedriver                        0x0000000100684e1c cxxbridge1$string$len + 321492
+6   chromedriver                        0x0000000100685a64 cxxbridge1$string$len + 324636
+7   chromedriver                        0x0000000100a7d6d4 cxxbridge1$str$ptr + 2381136
+8   chromedriver                        0x0000000100a809f4 cxxbridge1$str$ptr + 2394224
+9   chromedriver                        0x0000000100a6403c cxxbridge1$str$ptr + 2277048
+10  chromedriver                        0x0000000100a812b4 cxxbridge1$str$ptr + 2396464
+11  chromedriver                        0x0000000100a55c04 cxxbridge1$str$ptr + 2218624
+12  chromedriver                        0x0000000100a9bd60 cxxbridge1$str$ptr + 2505692
+13  chromedriver                        0x0000000100a9bedc cxxbridge1$str$ptr + 2506072
+14  chromedriver                        0x0000000100aaac6c cxxbridge1$str$ptr + 2566888
+15  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 48, in get_file
+    username_field.send_keys("jcordero@the5411.com")
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 301, in send_keys
+    self._execute(
+    ~~~~~~~~~~~~~^
+        Command.SEND_KEYS_TO_ELEMENT, {"text": "".join(keys_to_typing(value)), "value": keys_to_typing(value)}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 570, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+0   chromedriver                        0x00000001006527b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x000000010064aff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x00000001001ebd7c cxxbridge1$string$len + 87860
+3   chromedriver                        0x000000010022bd38 cxxbridge1$string$len + 349936
+4   chromedriver                        0x000000010022abb4 cxxbridge1$string$len + 345452
+5   chromedriver                        0x0000000100226890 cxxbridge1$string$len + 328264
+6   chromedriver                        0x000000010026b148 cxxbridge1$string$len + 609024
+7   chromedriver                        0x0000000100224e1c cxxbridge1$string$len + 321492
+8   chromedriver                        0x0000000100225a64 cxxbridge1$string$len + 324636
+9   chromedriver                        0x000000010061d6d4 cxxbridge1$str$ptr + 2381136
+10  chromedriver                        0x00000001006209f4 cxxbridge1$str$ptr + 2394224
+11  chromedriver                        0x000000010060403c cxxbridge1$str$ptr + 2277048
+12  chromedriver                        0x00000001006212b4 cxxbridge1$str$ptr + 2396464
+13  chromedriver                        0x00000001005f5c04 cxxbridge1$str$ptr + 2218624
+14  chromedriver                        0x000000010063bd60 cxxbridge1$str$ptr + 2505692
+15  chromedriver                        0x000000010063bedc cxxbridge1$str$ptr + 2506072
+16  chromedriver                        0x000000010064ac6c cxxbridge1$str$ptr + 2566888
+17  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 48, in get_file
+    username_field.send_keys("jcordero@the5411.com")
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 301, in send_keys
+    self._execute(
+    ~~~~~~~~~~~~~^
+        Command.SEND_KEYS_TO_ELEMENT, {"text": "".join(keys_to_typing(value)), "value": keys_to_typing(value)}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 570, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+0   chromedriver                        0x00000001005d27b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x00000001005caff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x000000010016bd7c cxxbridge1$string$len + 87860
+3   chromedriver                        0x00000001001abd38 cxxbridge1$string$len + 349936
+4   chromedriver                        0x00000001001aabb4 cxxbridge1$string$len + 345452
+5   chromedriver                        0x00000001001a6890 cxxbridge1$string$len + 328264
+6   chromedriver                        0x00000001001eb148 cxxbridge1$string$len + 609024
+7   chromedriver                        0x00000001001a4e1c cxxbridge1$string$len + 321492
+8   chromedriver                        0x00000001001a5a64 cxxbridge1$string$len + 324636
+9   chromedriver                        0x000000010059d6d4 cxxbridge1$str$ptr + 2381136
+10  chromedriver                        0x00000001005a09f4 cxxbridge1$str$ptr + 2394224
+11  chromedriver                        0x000000010058403c cxxbridge1$str$ptr + 2277048
+12  chromedriver                        0x00000001005a12b4 cxxbridge1$str$ptr + 2396464
+13  chromedriver                        0x0000000100575c04 cxxbridge1$str$ptr + 2218624
+14  chromedriver                        0x00000001005bbd60 cxxbridge1$str$ptr + 2505692
+15  chromedriver                        0x00000001005bbedc cxxbridge1$str$ptr + 2506072
+16  chromedriver                        0x00000001005cac6c cxxbridge1$str$ptr + 2566888
+17  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 81, in get_file
+    input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@class='form-control'])[1]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010474e7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000104746ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x00000001042e7f0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x000000010432d000 cxxbridge1$string$len + 371128
+4   chromedriver                        0x0000000104367148 cxxbridge1$string$len + 609024
+5   chromedriver                        0x0000000104320e1c cxxbridge1$string$len + 321492
+6   chromedriver                        0x0000000104321a64 cxxbridge1$string$len + 324636
+7   chromedriver                        0x00000001047196d4 cxxbridge1$str$ptr + 2381136
+8   chromedriver                        0x000000010471c9f4 cxxbridge1$str$ptr + 2394224
+9   chromedriver                        0x000000010470003c cxxbridge1$str$ptr + 2277048
+10  chromedriver                        0x000000010471d2b4 cxxbridge1$str$ptr + 2396464
+11  chromedriver                        0x00000001046f1c04 cxxbridge1$str$ptr + 2218624
+12  chromedriver                        0x0000000104737d60 cxxbridge1$str$ptr + 2505692
+13  chromedriver                        0x0000000104737edc cxxbridge1$str$ptr + 2506072
+14  chromedriver                        0x0000000104746c6c cxxbridge1$str$ptr + 2566888
+15  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 81, in get_file
+    input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@class='form-control'])[1]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010342a7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000103422ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000102fc3f0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000103009000 cxxbridge1$string$len + 371128
+4   chromedriver                        0x0000000103043148 cxxbridge1$string$len + 609024
+5   chromedriver                        0x0000000102ffce1c cxxbridge1$string$len + 321492
+6   chromedriver                        0x0000000102ffda64 cxxbridge1$string$len + 324636
+7   chromedriver                        0x00000001033f56d4 cxxbridge1$str$ptr + 2381136
+8   chromedriver                        0x00000001033f89f4 cxxbridge1$str$ptr + 2394224
+9   chromedriver                        0x00000001033dc03c cxxbridge1$str$ptr + 2277048
+10  chromedriver                        0x00000001033f92b4 cxxbridge1$str$ptr + 2396464
+11  chromedriver                        0x00000001033cdc04 cxxbridge1$str$ptr + 2218624
+12  chromedriver                        0x0000000103413d60 cxxbridge1$str$ptr + 2505692
+13  chromedriver                        0x0000000103413edc cxxbridge1$str$ptr + 2506072
+14  chromedriver                        0x0000000103422c6c cxxbridge1$str$ptr + 2566888
+15  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 48, in get_file
+    username_field.send_keys("jcordero@the5411.com")
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 301, in send_keys
+    self._execute(
+    ~~~~~~~~~~~~~^
+        Command.SEND_KEYS_TO_ELEMENT, {"text": "".join(keys_to_typing(value)), "value": keys_to_typing(value)}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 570, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+0   chromedriver                        0x00000001045967b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x000000010458eff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x000000010412fd7c cxxbridge1$string$len + 87860
+3   chromedriver                        0x000000010416fd38 cxxbridge1$string$len + 349936
+4   chromedriver                        0x000000010416ebb4 cxxbridge1$string$len + 345452
+5   chromedriver                        0x000000010416a890 cxxbridge1$string$len + 328264
+6   chromedriver                        0x00000001041af148 cxxbridge1$string$len + 609024
+7   chromedriver                        0x0000000104168e1c cxxbridge1$string$len + 321492
+8   chromedriver                        0x0000000104169a64 cxxbridge1$string$len + 324636
+9   chromedriver                        0x00000001045616d4 cxxbridge1$str$ptr + 2381136
+10  chromedriver                        0x00000001045649f4 cxxbridge1$str$ptr + 2394224
+11  chromedriver                        0x000000010454803c cxxbridge1$str$ptr + 2277048
+12  chromedriver                        0x00000001045652b4 cxxbridge1$str$ptr + 2396464
+13  chromedriver                        0x0000000104539c04 cxxbridge1$str$ptr + 2218624
+14  chromedriver                        0x000000010457fd60 cxxbridge1$str$ptr + 2505692
+15  chromedriver                        0x000000010457fedc cxxbridge1$str$ptr + 2506072
+16  chromedriver                        0x000000010458ec6c cxxbridge1$str$ptr + 2566888
+17  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 81, in get_file
+    input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//input[@class='form-control'])[1]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001032ca7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x00000001032c2ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000102e63f0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000102ea9000 cxxbridge1$string$len + 371128
+4   chromedriver                        0x0000000102ee3148 cxxbridge1$string$len + 609024
+5   chromedriver                        0x0000000102e9ce1c cxxbridge1$string$len + 321492
+6   chromedriver                        0x0000000102e9da64 cxxbridge1$string$len + 324636
+7   chromedriver                        0x00000001032956d4 cxxbridge1$str$ptr + 2381136
+8   chromedriver                        0x00000001032989f4 cxxbridge1$str$ptr + 2394224
+9   chromedriver                        0x000000010327c03c cxxbridge1$str$ptr + 2277048
+10  chromedriver                        0x00000001032992b4 cxxbridge1$str$ptr + 2396464
+11  chromedriver                        0x000000010326dc04 cxxbridge1$str$ptr + 2218624
+12  chromedriver                        0x00000001032b3d60 cxxbridge1$str$ptr + 2505692
+13  chromedriver                        0x00000001032b3edc cxxbridge1$str$ptr + 2506072
+14  chromedriver                        0x00000001032c2c6c cxxbridge1$str$ptr + 2566888
+15  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 48, in get_file
+    username_field.send_keys("jcordero@the5411.com")
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 301, in send_keys
+    self._execute(
+    ~~~~~~~~~~~~~^
+        Command.SEND_KEYS_TO_ELEMENT, {"text": "".join(keys_to_typing(value)), "value": keys_to_typing(value)}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 570, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+0   chromedriver                        0x00000001009e27b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x00000001009daff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x000000010057bd7c cxxbridge1$string$len + 87860
+3   chromedriver                        0x00000001005bbd38 cxxbridge1$string$len + 349936
+4   chromedriver                        0x00000001005babb4 cxxbridge1$string$len + 345452
+5   chromedriver                        0x00000001005b6890 cxxbridge1$string$len + 328264
+6   chromedriver                        0x00000001005fb148 cxxbridge1$string$len + 609024
+7   chromedriver                        0x00000001005b4e1c cxxbridge1$string$len + 321492
+8   chromedriver                        0x00000001005b5a64 cxxbridge1$string$len + 324636
+9   chromedriver                        0x00000001009ad6d4 cxxbridge1$str$ptr + 2381136
+10  chromedriver                        0x00000001009b09f4 cxxbridge1$str$ptr + 2394224
+11  chromedriver                        0x000000010099403c cxxbridge1$str$ptr + 2277048
+12  chromedriver                        0x00000001009b12b4 cxxbridge1$str$ptr + 2396464
+13  chromedriver                        0x0000000100985c04 cxxbridge1$str$ptr + 2218624
+14  chromedriver                        0x00000001009cbd60 cxxbridge1$str$ptr + 2505692
+15  chromedriver                        0x00000001009cbedc cxxbridge1$str$ptr + 2506072
+16  chromedriver                        0x00000001009dac6c cxxbridge1$str$ptr + 2566888
+17  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 48, in get_file
+    username_field.send_keys("jcordero@the5411.com")
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 301, in send_keys
+    self._execute(
+    ~~~~~~~~~~~~~^
+        Command.SEND_KEYS_TO_ELEMENT, {"text": "".join(keys_to_typing(value)), "value": keys_to_typing(value)}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 570, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+0   chromedriver                        0x000000010304a7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000103042ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000102be3d7c cxxbridge1$string$len + 87860
+3   chromedriver                        0x0000000102c23d38 cxxbridge1$string$len + 349936
+4   chromedriver                        0x0000000102c22bb4 cxxbridge1$string$len + 345452
+5   chromedriver                        0x0000000102c1e890 cxxbridge1$string$len + 328264
+6   chromedriver                        0x0000000102c63148 cxxbridge1$string$len + 609024
+7   chromedriver                        0x0000000102c1ce1c cxxbridge1$string$len + 321492
+8   chromedriver                        0x0000000102c1da64 cxxbridge1$string$len + 324636
+9   chromedriver                        0x00000001030156d4 cxxbridge1$str$ptr + 2381136
+10  chromedriver                        0x00000001030189f4 cxxbridge1$str$ptr + 2394224
+11  chromedriver                        0x0000000102ffc03c cxxbridge1$str$ptr + 2277048
+12  chromedriver                        0x00000001030192b4 cxxbridge1$str$ptr + 2396464
+13  chromedriver                        0x0000000102fedc04 cxxbridge1$str$ptr + 2218624
+14  chromedriver                        0x0000000103033d60 cxxbridge1$str$ptr + 2505692
+15  chromedriver                        0x0000000103033edc cxxbridge1$str$ptr + 2506072
+16  chromedriver                        0x0000000103042c6c cxxbridge1$str$ptr + 2566888
+17  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 48, in get_file
+    username_field.send_keys("jcordero@the5411.com")
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 301, in send_keys
+    self._execute(
+    ~~~~~~~~~~~~~^
+        Command.SEND_KEYS_TO_ELEMENT, {"text": "".join(keys_to_typing(value)), "value": keys_to_typing(value)}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 570, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+0   chromedriver                        0x000000010347a7b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x0000000103472ff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000103013d7c cxxbridge1$string$len + 87860
+3   chromedriver                        0x0000000103053d38 cxxbridge1$string$len + 349936
+4   chromedriver                        0x0000000103052bb4 cxxbridge1$string$len + 345452
+5   chromedriver                        0x000000010304e890 cxxbridge1$string$len + 328264
+6   chromedriver                        0x0000000103093148 cxxbridge1$string$len + 609024
+7   chromedriver                        0x000000010304ce1c cxxbridge1$string$len + 321492
+8   chromedriver                        0x000000010304da64 cxxbridge1$string$len + 324636
+9   chromedriver                        0x00000001034456d4 cxxbridge1$str$ptr + 2381136
+10  chromedriver                        0x00000001034489f4 cxxbridge1$str$ptr + 2394224
+11  chromedriver                        0x000000010342c03c cxxbridge1$str$ptr + 2277048
+12  chromedriver                        0x00000001034492b4 cxxbridge1$str$ptr + 2396464
+13  chromedriver                        0x000000010341dc04 cxxbridge1$str$ptr + 2218624
+14  chromedriver                        0x0000000103463d60 cxxbridge1$str$ptr + 2505692
+15  chromedriver                        0x0000000103463edc cxxbridge1$str$ptr + 2506072
+16  chromedriver                        0x0000000103472c6c cxxbridge1$str$ptr + 2566888
+17  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 89, in get_file
+    button_search.click()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 119, in click
+    self._execute(Command.CLICK_ELEMENT)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webelement.py", line 570, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <button type="button" class="btn btn-success tooltip-info" data-rel="tooltip" button-type="search" data-placement="bottom" title="" data-original-title="Search - Alt+F7" ng-click="onSearchClick($event)">...</button> is not clickable at point (25, 66). Other element would receive the click: <div class="bootbox modal fade customErrorDialog softErrorDialog in" tabindex="-1" role="dialog" aria-hidden="false" style="display: block;">...</div>
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+0   chromedriver                        0x00000001007567b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x000000010074eff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x00000001002eff0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x000000010033a930 cxxbridge1$string$len + 393960
+4   chromedriver                        0x0000000100338f0c cxxbridge1$string$len + 387268
+5   chromedriver                        0x0000000100336de8 cxxbridge1$string$len + 378784
+6   chromedriver                        0x0000000100336258 cxxbridge1$string$len + 375824
+7   chromedriver                        0x000000010032adec cxxbridge1$string$len + 329636
+8   chromedriver                        0x000000010032a890 cxxbridge1$string$len + 328264
+9   chromedriver                        0x000000010036f148 cxxbridge1$string$len + 609024
+10  chromedriver                        0x0000000100328e1c cxxbridge1$string$len + 321492
+11  chromedriver                        0x0000000100329a64 cxxbridge1$string$len + 324636
+12  chromedriver                        0x00000001007216d4 cxxbridge1$str$ptr + 2381136
+13  chromedriver                        0x00000001007249f4 cxxbridge1$str$ptr + 2394224
+14  chromedriver                        0x000000010070803c cxxbridge1$str$ptr + 2277048
+15  chromedriver                        0x00000001007252b4 cxxbridge1$str$ptr + 2396464
+16  chromedriver                        0x00000001006f9c04 cxxbridge1$str$ptr + 2218624
+17  chromedriver                        0x000000010073fd60 cxxbridge1$str$ptr + 2505692
+18  chromedriver                        0x000000010073fedc cxxbridge1$str$ptr + 2506072
+19  chromedriver                        0x000000010074ec6c cxxbridge1$str$ptr + 2566888
+20  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
