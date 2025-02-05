@@ -338,3 +338,75 @@ file script started executing at  2025-02-04 12:00:06
 <selenium.webdriver.remote.webelement.WebElement (session="33e2b9753fbb6b753d2bf9dc51fd31d9", element="f.8CBBEED6110F79E8FD5A9EBE9181D6A4.d.96B35963164FD1120A5553A72B20A3BA.e.5")>
 Latest download file: /Users/juliacordero/Downloads/InventoryReport-02042025_070045.xlsx
 Email sent successfully! at 2025-02-04 12:00:58.631465
+file script started executing at  2025-02-04 13:00:06
+<selenium.webdriver.remote.webelement.WebElement (session="e3a62523a1eb35c1235524d8abb572de", element="f.0152544044AB39965E3F14562F056C86.d.6312B40747890EF137F9C66A472CF92D.e.4")>
+<selenium.webdriver.remote.webelement.WebElement (session="e3a62523a1eb35c1235524d8abb572de", element="f.0152544044AB39965E3F14562F056C86.d.6312B40747890EF137F9C66A472CF92D.e.5")>
+Latest download file: /Users/juliacordero/Downloads/InventoryReport-02042025_080039.xlsx
+Email sent successfully! at 2025-02-04 13:00:53.501827
+file script started executing at  2025-02-04 14:00:07
+<selenium.webdriver.remote.webelement.WebElement (session="dd11933ac4470a4b419ea864e4fa1784", element="f.6F11D2ACB992C5D6A573BF7B0911E8AD.d.4B711EBF7342177F3B5D7B884850A28D.e.4")>
+<selenium.webdriver.remote.webelement.WebElement (session="dd11933ac4470a4b419ea864e4fa1784", element="f.6F11D2ACB992C5D6A573BF7B0911E8AD.d.4B711EBF7342177F3B5D7B884850A28D.e.5")>
+Latest download file: /Users/juliacordero/Downloads/InventoryReport-02042025_090048.xlsx
+Email sent successfully! at 2025-02-04 14:01:02.173586
+file script started executing at  2025-02-04 15:00:07
+<selenium.webdriver.remote.webelement.WebElement (session="16476ec93fdeca87b243f64b08e67cc6", element="f.3643D78FF3472F47C854653F6A197491.d.C41D30C0A619B18520DDE007CACB36D8.e.4")>
+<selenium.webdriver.remote.webelement.WebElement (session="16476ec93fdeca87b243f64b08e67cc6", element="f.3643D78FF3472F47C854653F6A197491.d.C41D30C0A619B18520DDE007CACB36D8.e.5")>
+Latest download file: /Users/juliacordero/Downloads/InventoryReport-02042025_100045.xlsx
+Email sent successfully! at 2025-02-04 15:00:58.484349
+file script started executing at  2025-02-04 16:00:03
+<selenium.webdriver.remote.webelement.WebElement (session="061bf0dac49005d459b7305c82664f5b", element="f.1CAEBA061FBEEFAE2822837BEF079DC4.d.E3B8A5A8261DDF7605BBFE1F0095A765.e.4")>
+<selenium.webdriver.remote.webelement.WebElement (session="061bf0dac49005d459b7305c82664f5b", element="f.1CAEBA061FBEEFAE2822837BEF079DC4.d.E3B8A5A8261DDF7605BBFE1F0095A765.e.5")>
+Latest download file: /Users/juliacordero/Downloads/InventoryReport-02042025_110041.xlsx
+Email sent successfully! at 2025-02-04 16:00:54.399611
+file script started executing at  2025-02-04 17:00:07
+<selenium.webdriver.remote.webelement.WebElement (session="aa960dcb9e047c380abaf8e28b91bc2a", element="f.B3458B7CDC35358BFCDA75DBAE4DDE3A.d.E9641FFE652C8B9021D27A071147915D.e.4")>
+<selenium.webdriver.remote.webelement.WebElement (session="aa960dcb9e047c380abaf8e28b91bc2a", element="f.B3458B7CDC35358BFCDA75DBAE4DDE3A.d.E9641FFE652C8B9021D27A071147915D.e.5")>
+Latest download file: /Users/juliacordero/Downloads/InventoryReport-02042025_120036.xlsx
+Email sent successfully! at 2025-02-04 17:00:49.741167
+file script started executing at  2025-02-04 18:00:05
+<selenium.webdriver.remote.webelement.WebElement (session="b894d1ead03ee8b48e7566690aaf4f54", element="f.827EE3FCF1D997AB48D38E4597BFD8C5.d.B4269F79260A177EA4E0DC5EFBDCC001.e.4")>
+<selenium.webdriver.remote.webelement.WebElement (session="b894d1ead03ee8b48e7566690aaf4f54", element="f.827EE3FCF1D997AB48D38E4597BFD8C5.d.B4269F79260A177EA4E0DC5EFBDCC001.e.5")>
+No login handle needed
+No login handle needed
+Latest download file: /Users/juliacordero/Downloads/InventoryReport-02042025_130047.xlsx
+Email sent successfully! at 2025-02-04 18:01:00.199747
+file script started executing at  2025-02-04 19:00:07
+<selenium.webdriver.remote.webelement.WebElement (session="fbe34f9cc177213cb18ee470776c65b4", element="f.E92904FF473FDD9EA3F6708DAF0E2349.d.F2F7DB6ACAE1CB243D719B8F7D9625C2.e.4")>
+<selenium.webdriver.remote.webelement.WebElement (session="fbe34f9cc177213cb18ee470776c65b4", element="f.E92904FF473FDD9EA3F6708DAF0E2349.d.F2F7DB6ACAE1CB243D719B8F7D9625C2.e.5")>
+Latest download file: /Users/juliacordero/Downloads/InventoryReport-02042025_140039.xlsx
+Email sent successfully! at 2025-02-04 19:00:52.958991
+file script started executing at  2025-02-04 20:00:07
+<selenium.webdriver.remote.webelement.WebElement (session="74523e8734f8d5e6a9f241e0e456b428", element="f.EFE3C5B1406C23C3DF7273EC6963CFF4.d.ED16093A9E942B04B7355A5CBE5C851B.e.4")>
+<selenium.webdriver.remote.webelement.WebElement (session="74523e8734f8d5e6a9f241e0e456b428", element="f.EFE3C5B1406C23C3DF7273EC6963CFF4.d.ED16093A9E942B04B7355A5CBE5C851B.e.5")>
+Latest download file: /Users/juliacordero/Downloads/InventoryReport-02042025_150051.xlsx
+Email sent successfully! at 2025-02-04 20:01:05.266863
+file script started executing at  2025-02-04 21:00:06
+<selenium.webdriver.remote.webelement.WebElement (session="0e465e10fc9f340d6bff01dc38bd29d5", element="f.CF472BBFF5049EB00F70B08FE772AE56.d.566EE97DB59153C6B7D96B7BDDDC64DC.e.4")>
+<selenium.webdriver.remote.webelement.WebElement (session="0e465e10fc9f340d6bff01dc38bd29d5", element="f.CF472BBFF5049EB00F70B08FE772AE56.d.566EE97DB59153C6B7D96B7BDDDC64DC.e.5")>
+Latest download file: /Users/juliacordero/Downloads/InventoryReport-02042025_160037.xlsx
+Email sent successfully! at 2025-02-04 21:00:51.635441
+file script started executing at  2025-02-04 22:14:46
+file script started executing at  2025-02-05 03:11:56
+file script started executing at  2025-02-05 09:00:13
+<selenium.webdriver.remote.webelement.WebElement (session="45eba3ec0c26d73c8b449ff84b782d0f", element="f.C2F3317ECE15C3836C2842BA63761C3F.d.24776CF278EDD886F72FC64BEB42E0E6.e.4")>
+<selenium.webdriver.remote.webelement.WebElement (session="45eba3ec0c26d73c8b449ff84b782d0f", element="f.C2F3317ECE15C3836C2842BA63761C3F.d.24776CF278EDD886F72FC64BEB42E0E6.e.5")>
+No login handle needed
+No login handle needed
+file script started executing at  2025-02-05 11:01:52
+file script started executing at  2025-02-05 12:00:07
+<selenium.webdriver.remote.webelement.WebElement (session="3073cfcff8c81c5f22cf3979b553eb08", element="f.35FE035ADCDB3A4B56CA3CC6D7E1BC9F.d.505DAF74AD304D569326ADEC013D3937.e.4")>
+<selenium.webdriver.remote.webelement.WebElement (session="3073cfcff8c81c5f22cf3979b553eb08", element="f.35FE035ADCDB3A4B56CA3CC6D7E1BC9F.d.505DAF74AD304D569326ADEC013D3937.e.5")>
+Latest download file: /Users/juliacordero/Downloads/InventoryReport-02052025_070051.xlsx
+Email sent successfully! at 2025-02-05 12:01:07.011211
+file script started executing at  2025-02-05 13:00:04
+<selenium.webdriver.remote.webelement.WebElement (session="7805b2f73e106eaeac1565369ea4af2e", element="f.4045A5716292529F0CB643869AEDBE66.d.8F7CF5EBD3FEF5275353E85F2FE828C9.e.4")>
+<selenium.webdriver.remote.webelement.WebElement (session="7805b2f73e106eaeac1565369ea4af2e", element="f.4045A5716292529F0CB643869AEDBE66.d.8F7CF5EBD3FEF5275353E85F2FE828C9.e.5")>
+Latest download file: /Users/juliacordero/Downloads/InventoryReport-02052025_080039.xlsx
+Email sent successfully! at 2025-02-05 13:00:54.338815
+file script started executing at  2025-02-05 14:02:41
+<selenium.webdriver.remote.webelement.WebElement (session="c804a5861067260b70c78429cb31d960", element="f.AA76ABC779B8585D9040D935066FB141.d.14CAED19F59E145B14C295D85E9D98D3.e.4")>
+<selenium.webdriver.remote.webelement.WebElement (session="c804a5861067260b70c78429cb31d960", element="f.AA76ABC779B8585D9040D935066FB141.d.14CAED19F59E145B14C295D85E9D98D3.e.5")>
+No login handle needed
+No login handle needed
+Latest download file: /Users/juliacordero/Downloads/InventoryReport-02052025_090308.xlsx
+Email sent successfully! at 2025-02-05 14:03:23.555031

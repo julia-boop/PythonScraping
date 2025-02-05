@@ -1934,3 +1934,235 @@ Stacktrace:
 20  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
 21  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
 
+Traceback (most recent call last):
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 1428, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 38, in get_file
+    driver.get("https://app.logiwa.com/en/Login")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 427, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=53070): Read timed out. (read timeout=120)
+Traceback (most recent call last):
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 1428, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 38, in get_file
+    driver.get("https://app.logiwa.com/en/Login")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 427, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=62446): Read timed out. (read timeout=120)
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 73, in get_file
+    driver.get("https://app.logiwa.com/en/WMS/Stock")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+0   chromedriver                        0x00000001032427b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x000000010323aff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000102ddbf0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000102dd5320 cxxbridge1$string$len + 60632
+4   chromedriver                        0x0000000102dc789c cxxbridge1$string$len + 4692
+5   chromedriver                        0x0000000102dc9254 cxxbridge1$string$len + 11276
+6   chromedriver                        0x0000000102dc7c48 cxxbridge1$string$len + 5632
+7   chromedriver                        0x0000000102dc767c cxxbridge1$string$len + 4148
+8   chromedriver                        0x0000000102dc73f0 cxxbridge1$string$len + 3496
+9   chromedriver                        0x0000000102dc50f8 chromedriver + 184568
+10  chromedriver                        0x0000000102dc5c30 chromedriver + 187440
+11  chromedriver                        0x0000000102dde460 cxxbridge1$string$len + 97816
+12  chromedriver                        0x0000000102e5b708 cxxbridge1$string$len + 610496
+13  chromedriver                        0x0000000102e5b148 cxxbridge1$string$len + 609024
+14  chromedriver                        0x0000000102e14e1c cxxbridge1$string$len + 321492
+15  chromedriver                        0x0000000102e15a64 cxxbridge1$string$len + 324636
+16  chromedriver                        0x000000010320d6d4 cxxbridge1$str$ptr + 2381136
+17  chromedriver                        0x00000001032109f4 cxxbridge1$str$ptr + 2394224
+18  chromedriver                        0x00000001031f403c cxxbridge1$str$ptr + 2277048
+19  chromedriver                        0x00000001032112b4 cxxbridge1$str$ptr + 2396464
+20  chromedriver                        0x00000001031e5c04 cxxbridge1$str$ptr + 2218624
+21  chromedriver                        0x000000010322bd60 cxxbridge1$str$ptr + 2505692
+22  chromedriver                        0x000000010322bedc cxxbridge1$str$ptr + 2506072
+23  chromedriver                        0x000000010323ac6c cxxbridge1$str$ptr + 2566888
+24  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+25  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 12, in <module>
+    latest_file = get_file()
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 38, in get_file
+    driver.get("https://app.logiwa.com/en/Login")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/juliacordero/.venvs/logiwa_venv/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+0   chromedriver                        0x00000001011167b8 cxxbridge1$str$ptr + 2598452
+1   chromedriver                        0x000000010110eff8 cxxbridge1$str$ptr + 2567796
+2   chromedriver                        0x0000000100caff0c cxxbridge1$string$len + 88260
+3   chromedriver                        0x0000000100ca9320 cxxbridge1$string$len + 60632
+4   chromedriver                        0x0000000100c9b89c cxxbridge1$string$len + 4692
+5   chromedriver                        0x0000000100c9d254 cxxbridge1$string$len + 11276
+6   chromedriver                        0x0000000100c9bc48 cxxbridge1$string$len + 5632
+7   chromedriver                        0x0000000100c9b67c cxxbridge1$string$len + 4148
+8   chromedriver                        0x0000000100c9b3f0 cxxbridge1$string$len + 3496
+9   chromedriver                        0x0000000100c990f8 chromedriver + 184568
+10  chromedriver                        0x0000000100c99c30 chromedriver + 187440
+11  chromedriver                        0x0000000100cb2460 cxxbridge1$string$len + 97816
+12  chromedriver                        0x0000000100d2f708 cxxbridge1$string$len + 610496
+13  chromedriver                        0x0000000100d2f148 cxxbridge1$string$len + 609024
+14  chromedriver                        0x0000000100ce8e1c cxxbridge1$string$len + 321492
+15  chromedriver                        0x0000000100ce9a64 cxxbridge1$string$len + 324636
+16  chromedriver                        0x00000001010e16d4 cxxbridge1$str$ptr + 2381136
+17  chromedriver                        0x00000001010e49f4 cxxbridge1$str$ptr + 2394224
+18  chromedriver                        0x00000001010c803c cxxbridge1$str$ptr + 2277048
+19  chromedriver                        0x00000001010e52b4 cxxbridge1$str$ptr + 2396464
+20  chromedriver                        0x00000001010b9c04 cxxbridge1$str$ptr + 2218624
+21  chromedriver                        0x00000001010ffd60 cxxbridge1$str$ptr + 2505692
+22  chromedriver                        0x00000001010ffedc cxxbridge1$str$ptr + 2506072
+23  chromedriver                        0x000000010110ec6c cxxbridge1$str$ptr + 2566888
+24  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
+25  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
+

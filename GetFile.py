@@ -9,8 +9,23 @@ import datetime
 import time
 import os
 
-chromedriver_path = "/usr/local/bin/chromedriver"  
 download_path = "/Users/juliacordero/Downloads"
+
+import chromedriver_autoinstaller
+
+# Install ChromeDriver if not already installed
+chromedriver_autoinstaller.install()
+
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+
+chrome_options = Options()
+chrome_options.add_argument("--headless")  # Run headless for server environments
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
+
+driver = webdriver.Chrome(options=chrome_options)
 
 chrome_options = Options()
 chrome_options.add_argument("--headless")
@@ -23,7 +38,7 @@ chrome_options.add_experimental_option("prefs", {
     "safebrowsing.enabled": True               
 })
 
-service = Service(chromedriver_path)
+service = Service()
 driver = webdriver.Chrome(service=service, options=chrome_options)
 screenshot_path = "/Users/juliacordero/Documents/Python/LogiwaScraping/Screenshots/"
 
@@ -77,7 +92,7 @@ def get_file():
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     driver.save_screenshot(f"{screenshot_path}screenshot1-{timestamp}.png")
-    
+
     input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
 
     input_element.send_keys("Sancia")
