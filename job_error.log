@@ -2166,3 +2166,9 @@ Stacktrace:
 24  libsystem_pthread.dylib             0x0000000181e1df94 _pthread_start + 136
 25  libsystem_pthread.dylib             0x0000000181e18d34 thread_start + 8
 
+Traceback (most recent call last):
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/Main.py", line 1, in <module>
+    from GetFile import get_file
+  File "/Users/juliacordero/Documents/Python/LogiwaScraping/GetFile.py", line 14, in <module>
+    import chromedriver_autoinstaller
+ModuleNotFoundError: No module named 'chromedriver_autoinstaller'
