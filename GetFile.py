@@ -5,6 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from dotenv import load_dotenv
 import chromedriver_autoinstaller
 import datetime
 import tempfile
@@ -59,8 +60,8 @@ def get_file():
 
     time.sleep(3)
 
-    username_field.send_keys("jcordero@the5411.com")
-    password_field.send_keys("Trendsonic.420")
+    username_field.send_keys(os.getenv("LOGIWA_USERNAME"))
+    password_field.send_keys(os.getenv("LOGIWA_PASSWORD"))
 
     login_button = driver.find_element(By.ID, "LoginButton")
     login_button.click()
