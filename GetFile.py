@@ -3,11 +3,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from dotenv import load_dotenv
 import chromedriver_autoinstaller
-import datetime
 import tempfile
 import time
 import os
@@ -95,7 +91,7 @@ def get_file():
 
     input_element = driver.find_element(By.XPATH, "(//input[@class='form-control'])[1]")
 
-    input_element.send_keys("Sancia")
+    input_element.send_keys("Nude Lucy")
     input_element.send_keys(Keys.ENTER)
 
     time.sleep(3)
