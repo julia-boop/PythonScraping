@@ -13,8 +13,8 @@ latest_file = get_file()
 
 sender_email = os.getenv("SENDER_EMAIL")
 receiver_email = "jcordero@the5411.com"
-subject = "Test: Send Daily Inventory"
-body = "Estoy probando si funciona el script"
+subject = "Inventory export"
+body = "Please find the attached file with the latest inventory data."
 file_path = latest_file  
 smtp_server = os.getenv("SMTP_SERVER") 
 smtp_port = os.getenv("SMTP_PORT") 
