@@ -12,7 +12,8 @@ print("file script started executing at ", datetime.datetime.now().strftime("%Y-
 latest_file = get_file()
 
 sender_email = os.getenv("SENDER_EMAIL")
-receiver_email = "jcordero@the5411.com, Krystal.Ward@accentgr.com.au, Annabelle.Tuck@nudelucy.com.au, Christie.Selley@accentgr.com.au"
+# receiver_email = "jcordero@the5411.com, Krystal.Ward@accentgr.com.au, Annabelle.Tuck@nudelucy.com.au, Christie.Selley@accentgr.com.au"
+receiver_email = "jcordero@the5411.com"
 subject = "Inventory export"
 body = "Please find the attached file with the latest inventory data."
 file_path = latest_file  
